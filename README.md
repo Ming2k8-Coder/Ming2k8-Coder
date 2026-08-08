@@ -82,9 +82,9 @@ print(me.greet())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ming2k8-Coder&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ming2k8-Coder&theme=midnight_purple" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ming2k8-Coder&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=a78bfa&text_color=e2e8f0&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ming2k8-Coder&theme=midnight_purple" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -97,7 +97,7 @@ print(me.greet())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ming2k8-Coder&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ming2k8-Coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
