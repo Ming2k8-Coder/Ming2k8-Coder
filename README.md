@@ -60,19 +60,25 @@ print(me.greet())
 
 **🛠️ Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,arch,vscode,docker,npm&theme=dark" alt="Tools and Platforms"/>
+<img src="https://skillicons.dev/icons?i=git,github,arch,vscode,docker,npm,androidstudio,vim,windows&theme=dark" alt="Tools and Platforms"/>
 
-**🔌 Embedded Systems**
+**🔌 Embedded Systems & AI**
 
-<img src="https://skillicons.dev/icons?i=arduino,c,cpp&theme=dark" alt="Embedded Systems"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,pytorch,c,cpp&theme=dark" alt="Embedded Systems"/>
 
-> ESP-IDF (Espressif IoT Development Framework) · FreeRTOS · bare-metal C/C++
+<br/>
+
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-20232A?style=for-the-badge&logo=freertos&logoColor=27A062)
 
 **🖥️ Server Administration**
 
-<img src="https://skillicons.dev/icons?i=arch,bash,linux,docker&theme=dark" alt="Server Administration"/>
+<img src="https://skillicons.dev/icons?i=arch,bash,linux,docker,nginx&theme=dark" alt="Server Administration"/>
 
-> Arch Linux over SSH · systemd · pacman · self-hosted services
+<br/>
+
+![SSH](https://img.shields.io/badge/SSH-Remote_Admin-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
+![Systemd](https://img.shields.io/badge/Systemd-Services-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
