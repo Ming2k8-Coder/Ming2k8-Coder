@@ -94,10 +94,16 @@ print(me.greet())
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Contribution Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ming2k8-Coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ming2k8-Coder&theme=midnight_purple" width="100%" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ming2k8-Coder&theme=midnight_purple" height="180" alt="Most Commit Language"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ming2k8-Coder&theme=midnight_purple&utcOffset=7" height="180" alt="Productive Time"/>
+
 </div>
 
 ---
