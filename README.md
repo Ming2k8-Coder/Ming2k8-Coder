@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ming2k8&fontSize=75&fontColor=a78bfa&fontAlignY=38&desc=✦%20HUST%20PH2%20✦%20Vibe%20Coder%20✦%20Building%20at%20the%20speed%20of%20thought&descAlignY=60&descSize=18&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ming2k8&fontSize=75&fontColor=a78bfa&fontAlignY=38&desc=✦%20HUST%20PH2%20✦%20K%E1%BB%B9%20thu%E1%BA%ADt%20H%E1%BA%A1t%20nh%C3%A2n%20✦%20Vibe%20Coder&descAlignY=60&descSize=18&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+HUST+PH2+%7C+Engineering+Physics+Student;%F0%9F%8C%99+Code+by+vibe%2C+debug+by+instinct;%F0%9F%94%A7+C%2FC%2B%2B+%7C+%F0%9F%90%8D+Python+%7C+%F0%9F%94%8C+Embedded+IoT;%F0%9F%9A%80+Turning+ideas+into+reality%2C+one+commit+at+a+time;%F0%9F%8E%B5+If+it+compiles%2C+ship+it" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=%F0%9F%8E%93+HUST+%7C+K%E1%BB%B9+thu%E1%BA%ADt+H%E1%BA%A1t+nh%C3%A2n+(PH2);%E2%AD%90+%C4%90%E1%BA%A3ng+vi%C3%AAn+%C4%90%E1%BA%A3ng+C%E1%BB%99ng+s%E1%BA%A3n+Vi%E1%BB%87t+Nam;%F0%9F%8C%99+Code+by+vibe%2C+debug+by+instinct;%E2%9A%9B%EF%B8%8F+Nuclear+Engineering+%7C+C%2FC%2B%2B+%7C+Python+%7C+IoT;%F0%9F%9A%80+Turning+ideas+into+reality%2C+one+commit+at+a+time" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -23,9 +23,10 @@
 
 <br/><br/>
 
-<!-- Academic quick badges -->
+<!-- Academic & Political quick badges -->
 [![HUST](https://img.shields.io/badge/HUST-Đại_Học_Bách_Khoa_Hà_Nội-b91c1c?style=for-the-badge&logo=codeforces&logoColor=white)](https://hust.edu.vn)
-[![PH2](https://img.shields.io/badge/Khoa-PH2_%7C_Vật_Lý_Kỹ_Thuật-7c3aed?style=for-the-badge&logo=atom&logoColor=white)](https://sep.hust.edu.vn)
+[![PH2](https://img.shields.io/badge/Chương_trình-Kỹ_Thuật_Hạt_Nhân_(PH2)-7c3aed?style=for-the-badge&logo=atom&logoColor=white)](https://sep.hust.edu.vn)
+![ĐCSVN](https://img.shields.io/badge/Đảng_viên-Đảng_Cộng_sản_Việt_Nam-dc2626?style=for-the-badge&logo=star&logoColor=yellow)
 ![MSSV](https://img.shields.io/badge/MSSV-202611037-302b63?style=for-the-badge&logo=id-badge&logoColor=white)
 [![Edu Mail](https://img.shields.io/badge/Edu_Mail-Minh.NT2611037%40sis.hust.edu.vn-2563eb?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Minh.NT2611037@sis.hust.edu.vn)
 
@@ -40,22 +41,23 @@
 ```python
 class VibeCoder:
     def __init__(self):
-        self.name        = "Nguyễn Tuấn Minh (Ming2k8)"
-        self.alias       = "Vibe Coder"
-        self.university  = "Hanoi University of Science and Technology (HUST)"
-        self.faculty     = "PH2 - School of Engineering Physics"
-        self.student_id  = "202611037"
-        self.edu_email   = "Minh.NT2611037@sis.hust.edu.vn"
-        self.languages   = ["C", "C++", "Python", "Node.js", "JavaScript"]
-        self.passions    = [
-            "Systems Programming", 
+        self.name          = "Nguyễn Tuấn Minh (Ming2k8)"
+        self.alias         = "Vibe Coder"
+        self.university    = "Hanoi University of Science and Technology (HUST)"
+        self.program       = "Chương trình đào tạo Đại học Kỹ thuật Hạt nhân (PH2)"
+        self.student_id    = "202611037"
+        self.party_member  = "Đảng viên Đảng Cộng sản Việt Nam (CPV Member) ⭐🇻🇳"
+        self.edu_email     = "Minh.NT2611037@sis.hust.edu.vn"
+        self.languages     = ["C", "C++", "Python", "Node.js", "JavaScript"]
+        self.passions      = [
+            "Nuclear Engineering & Applied Physics",
+            "Systems Programming & Automation", 
             "Embedded Systems & IoT", 
-            "Applied Physics & Computational Science",
-            "Automation & Linux"
+            "High-Performance Computing & Simulation"
         ]
-        self.philosophy  = "Code is not just logic — it's an art form."
-        self.currently   = "Studying at HUST PH2 & Building cool stuff 🚀"
-        self.fun_fact    = "I code better at 2AM than 2PM 🌙"
+        self.philosophy    = "Code is not just logic — it's an art form."
+        self.currently     = "Studying Nuclear Engineering @ HUST PH2 & Building cool stuff 🚀"
+        self.fun_fact      = "I code better at 2AM than 2PM 🌙"
 
     def greet(self):
         return f"Hey there! I'm {self.name} — {self.alias} from HUST PH2 👾"
@@ -67,13 +69,14 @@ print(me.greet())
 
 <div align="center">
 
-| 🎓 **Academic Profile** | 📋 **Details** |
+| 🎓 **Academic & Profile** | 📋 **Details** |
 | :--- | :--- |
-| 🏛️ **University** | **Hanoi University of Science and Technology (ĐHBK Hà Nội - HUST)** |
-| 🔬 **Faculty / Department** | **PH2** (Khoa / Viện Vật lý Kỹ thuật - School of Engineering Physics) |
-| 🆔 **Student ID (MSSV)** | `202611037` |
-| 📧 **Institutional Email** | [Minh.NT2611037@sis.hust.edu.vn](mailto:Minh.NT2611037@sis.hust.edu.vn) |
-| 💻 **Main Focus** | Systems Programming, Embedded & IoT, Computational Physics |
+| 🏛️ **Đại học** | **Đại học Bách khoa Hà Nội (HUST)** |
+| ⚛️ **Chương trình đào tạo** | **Chương trình đào tạo Đại học Kỹ thuật Hạt nhân (PH2)** |
+| 🆔 **Mã số sinh viên (MSSV)** | `202611037` |
+| ⭐ **Đoàn thể / Chính trị** | **Đảng viên Đảng Cộng sản Việt Nam** 🇻🇳 |
+| 📧 **Email sinh viên (SIS)** | [Minh.NT2611037@sis.hust.edu.vn](mailto:Minh.NT2611037@sis.hust.edu.vn) |
+| 💻 **Lĩnh vực trọng tâm** | Kỹ thuật Hạt nhân, Lập trình Hệ thống, IoT & Nhúng, Mô phỏng Vật lý |
 
 </div>
 
@@ -87,7 +90,7 @@ print(me.greet())
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,ts&theme=dark" alt="Languages"/>
 
-**🔌 Embedded Systems, IoT & AI**
+**🔌 Embedded Systems, Nuclear Simulation & AI**
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,pytorch,c,cpp&theme=dark" alt="Embedded Systems"/>
 
