@@ -164,6 +164,7 @@ print(me.greet())
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ming2k8--Coder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ming2k8-Coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Minh_Nguy%E1%BB%85n_Tu%E1%BA%A5n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-tu%E1%BA%A5n-507649429/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyentuanminh208@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40tmink8-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tmink8)
 [![Facebook](https://img.shields.io/badge/Facebook-minh0p2w-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minh0p2w/)
